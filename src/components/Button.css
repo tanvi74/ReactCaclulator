@@ -1,0 +1,26 @@
+.button {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    
+    outline: 1px solid #888;
+    cursor: pointer;
+  }
+  .operator {
+    background-color: #f0f0f0;
+    color: #000;
+    cursor: pointer;
+  }
+
+  .word{
+    background-color: cyan;
+    color:black;
+    height: 3em;
+    font-weight: bolder;
+    padding:20px;
+    cursor: pointer;
+  }
